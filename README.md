@@ -1,5 +1,3 @@
-Tabii 👍 Senin projen için detaylı bir **README.md** hazırladım. İngilizce, profesyonel ve GitHub’a direkt koyabileceğin formatta:
-
 ---
 
 ```markdown
